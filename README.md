@@ -1,8 +1,7 @@
-# Sample Hardhat Project
+# ZetaSwap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+This project utilizes zetachain library to demonstrate crosschain swaps.
+The contracts have legacy-package dependencies and require a complete redo for porting to newer versions
 
 ```shell
 npx hardhat help
